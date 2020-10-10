@@ -25,3 +25,4 @@ You're ready to go! Run any task by typing `npm run task` (where "task" is the n
 * Run the following to depoy:
 	```bash
 	$ firebase deploy
+* View at https://holly-1689.firebaseapp.com/
